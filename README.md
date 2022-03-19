@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Discord.js ExpungedBoat</h1> 
+<h1 align="center">Discord.js MusicBot</h1> 
 </div>
 
 A Discord Bot that can play musics for you. The bot have many commands like playing, skipping, stoping etc. the music. This bot is made by a 13 years old programmer from the Philippines. Also, iw will not going to offline, it will be online forever 24/7 if you copy the Bots Site link and paste it to Uptime Robot. If you would like to know ho to install, just go to ##How to install?
