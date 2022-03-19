@@ -6,7 +6,7 @@ A Discord Bot that can play musics for you. The bot have many commands like play
 
 ## Preview of discord bot
 This is what will show when the bot has been setup successfully.
-![Preview](https://media.discordapp.net/attachments/945142334222401536/952029545849049178/ExpungedBoat_Preview.png?width=661&height=427)
+![Preview](https://media.discordapp.net/attachments/945142334222401536/954622812457431110/unknown.png)
 
 ## Features
 * Online Forever 24/7
